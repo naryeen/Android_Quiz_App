@@ -31,12 +31,10 @@ As a student we have to learn so many things and we refer so many websites and a
 <img src="screenshots/10.1-3. Python Lesson.png" width="450" height="250" /> <br>
 <img src="screenshots/7.1-6. future  motivation.png" width="450" height="250" /> <br>
 
-
 # Conclusion
 
-1. MStudio Bhutan has the highest number of videos released so far with 92 videos uploaded followed by the Yeshi Lhendup Flims with 89 videos.
-2. The number of views in each music video does not depends on the year it was released as some of the latest videos has higher number of view counts compared to the old videos.
-3. Most of the music videos are released in the year between 2019 to 2021.
-4. The music video "YA TARU MA TARU " released in the year 2019 by Yeshi Lhendup Flims has the highest number of views with around 1.7 million.
-5. Yeshi Lhendup Flims has the highest total number of view with around 25 million.
-6. Thus, the Music Video Channel 'Yeashi Lhendup Flims' is most popular in Bhutan.
+1. The main focus of the application will be based on the the python learning. The concept will be delivered and moreover the maximum concept will based on the real life problem. The user can actively participate and engage in learning. With the problem the solutions are provided thus user can actively learn.
+
+2. Although researchers predict that mobile learning has outstandingly influence on education (Alden, 2013) but design and development of mobile learning application consider as complicated progress for many institutions. One main challenge is to identify how to design application development environments able to support integration of such technologies through intuitive mobile interactive environments. Moreover, regarding to limitations of learning tools such as mobile application, fast and endlessly changes, there are priorities in design and development phase between content and context, instruction,interface, learning approach and... . “How do I create an environment to teach what I am trying to teach? The conundrum lies in the struggle between the ideal learning environment and the pragmatic solution based on available resources. Should an educator first consider technological decisions or traditional
+
+3. This quiz application will help to learn in different stages with interactive questions and with the solutions thus it will be easy for the learner to get the ideas. And moreover it will add user with the new skills and knowledge.
