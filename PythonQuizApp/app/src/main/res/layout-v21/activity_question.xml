@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".QuestionActivity">
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/qCount"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:padding="8dp"
+            android:text="1/10"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/question"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_margin="16dp"
+            android:gravity="center"
+            android:text="Questions"
+            android:textColor="@color/white"
+            android:textSize="17sp"
+             />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout">
+
+        <Button
+            android:id="@+id/option1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/round_corner"
+            android:gravity="center"
+            android:text="option1"
+
+            android:backgroundTint="@color/colorAccent"
+            android:textColor="@color/white"
+            android:textSize="17sp"
+             />
+
+        <Button
+            android:id="@+id/option2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/round_corner"
+            android:gravity="center"
+            android:backgroundTint="@color/colorAccent"
+            android:text="option2"
+
+            android:textColor="@color/white"
+            android:textSize="17sp"
+             />
+
+        <Button
+            android:id="@+id/option3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/round_corner"
+            android:backgroundTint="@color/red"
+            android:gravity="center"
+            android:text="option3"
+
+            android:textColor="@color/white"
+            android:textSize="17sp"
+            />
+
+        <Button
+            android:id="@+id/option4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/round_corner"
+            android:gravity="center"
+            android:text="option4"
+
+            android:backgroundTint="@color/colorAccent"
+            android:textColor="@color/white"
+            android:textSize="17sp"
+            />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/timerQues"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="341dp"
+        android:layout_marginLeft="341dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="16dp"
+        android:text="10"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="@color/colorAccent"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginRight="16dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

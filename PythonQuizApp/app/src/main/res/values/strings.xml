@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">PythonQuizApp</string>
+    <string name="textViewslpashScreen">Welcome to python learning</string>
+    <string name="title_activity_question2">QuestionActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="title_activity_register">Register</string>
+    <string name="lemail">Email</string>
+    <string name="lpassword">Password</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="logout">Logout</string>
+    <string name="please_verify_your_email_address">Please Verify your Email Address</string>
+    <string name="verify_now_btn">Verify now</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="save_reset_password">Save</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="email_address_reset">Enter Email Address</string>
+
+    <string name="delete_account">Delete Account</string>
+    <string name="register">Register</string>
+    <string name="if_you_ve_account_login">If you\'ve account,Login</string>
+    <string name="graph">Graph</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="save">Save</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="update_email">Update Email</string>
+
+
+</resources>
